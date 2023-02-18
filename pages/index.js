@@ -13,8 +13,8 @@ export default function Home({ allPostsData, getChucks }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hey There, I am Kishore Kumar Andra ... Passionate software developer
-          and I am loving Next JS so far !! 😀
+          Hey There, I am Kishore (KcH) ... A Passionate software developer who
+          is currently learning NextJS and loving it so far !! 💃🎉🎊🥳
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
